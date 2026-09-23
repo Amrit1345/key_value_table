@@ -1,9 +1,19 @@
 name: key_value_table
 description: A lightweight Flutter table widget that perfectly aligns key-value pairs with intrinsic label widths, customizable separators, and widget values.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Amrit1345/key_value_table
 repository: https://github.com/Amrit1345/key_value_table
 issue_tracker: https://github.com/Amrit1345/key_value_table/issues
+
+screenshots:
+  - description: 'KeyValueTable desktop showcase in dark mode.'
+    path: doc/screenshots/demo_dark.png
+  - description: 'KeyValueTable desktop showcase in light mode.'
+    path: doc/screenshots/demo_light.png
+  - description: 'KeyValueTable mobile responsive view in dark mode.'
+    path: doc/screenshots/demo_dark_mobile.png
+  - description: 'KeyValueTable mobile responsive view in light mode.'
+    path: doc/screenshots/demo_light_mobile.png
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

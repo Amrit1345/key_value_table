@@ -14,3 +14,10 @@ Run from the `example/` directory:
 cd example
 flutter run
 ```
+
+---
+
+> **Looking for a full standalone multi-platform showcase application?**  
+> Check out the companion demo repository with responsive layouts and real-time Light/Dark mode switching:  
+> 👉 [key_value_table_demo on GitHub](https://github.com/Amrit1345/key_value_table_demo)
+

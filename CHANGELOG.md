@@ -1,3 +1,9 @@
+## 0.0.2
+
+* Added live showcase screenshots for desktop and mobile (dark and light modes).
+* Added reference and quickstart links for the companion `key_value_table_demo` project.
+* Added `screenshots` metadata in `pubspec.yaml` for pub.dev package gallery.
+
 ## 0.0.1
 
 * Initial release of `key_value_table`.

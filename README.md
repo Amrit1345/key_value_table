@@ -5,6 +5,26 @@
 
 A lightweight, zero-dependency Flutter table widget that **perfectly aligns key-value pairs**. It calculates the intrinsic width of the longest key so all separators (colons, arrows, dashes) line up in vertical harmony.
 
+### Desktop & Web Showcase
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_dark.png" alt="KeyValueTable in Dark Mode" width="720"/>
+  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_dark.png" alt="KeyValueTable in Dark Mode (Desktop)" width="720"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_light.png" alt="KeyValueTable in Light Mode" width="720"/>
+  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_light.png" alt="KeyValueTable in Light Mode (Desktop)" width="720"/>
+</p>
+
+### Mobile Responsive Showcase
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_dark_mobile.png" alt="KeyValueTable in Dark Mode (Mobile)" width="350"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_light_mobile.png" alt="KeyValueTable in Light Mode (Mobile)" width="350"/>
+</p>
+
 ---
 
 ## Features
@@ -88,7 +108,26 @@ KeyValueTable(
 
 ---
 
+## Live Demo Application
+
+Want to try out the complete interactive showcase across all platforms (Web, Mobile, Desktop) with real-time Light/Dark mode toggling?
+
+Check out the companion open-source demo repository:  
+👉 **[key_value_table_demo on GitHub](https://github.com/Amrit1345/key_value_table_demo)**
+
+To run it locally:
+
+```bash
+git clone https://github.com/Amrit1345/key_value_table_demo.git
+cd key_value_table_demo
+flutter run
+```
+
+---
+
 ## Additional information
 
-Contribute or report issues on GitHub at [github.com/Amrit1345/key_value_table](https://github.com/Amrit1345/key_value_table).
+- **Package Repository:** [github.com/Amrit1345/key_value_table](https://github.com/Amrit1345/key_value_table)
+- **Demo Project:** [github.com/Amrit1345/key_value_table_demo](https://github.com/Amrit1345/key_value_table_demo)
+- **Issue Tracker:** [github.com/Amrit1345/key_value_table/issues](https://github.com/Amrit1345/key_value_table/issues)
 
