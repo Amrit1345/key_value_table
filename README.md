@@ -8,21 +8,19 @@ A lightweight, zero-dependency Flutter table widget that **perfectly aligns key-
 ### Desktop & Web Showcase
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_dark.png" alt="KeyValueTable in Dark Mode" width="720"/>
-  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_dark.png" alt="KeyValueTable in Dark Mode (Desktop)" width="720"/>
+  <img src="doc/screenshots/demo_dark.png" alt="KeyValueTable in Dark Mode (Desktop)" width="720"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_light.png" alt="KeyValueTable in Light Mode" width="720"/>
-  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_light.png" alt="KeyValueTable in Light Mode (Desktop)" width="720"/>
+  <img src="doc/screenshots/demo_light.png" alt="KeyValueTable in Light Mode (Desktop)" width="720"/>
 </p>
 
 ### Mobile Responsive Showcase
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_dark_mobile.png" alt="KeyValueTable in Dark Mode (Mobile)" width="350"/>
+  <img src="doc/screenshots/demo_dark_mobile.png" alt="KeyValueTable in Dark Mode (Mobile)" width="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Amrit1345/key_value_table/main/doc/screenshots/demo_light_mobile.png" alt="KeyValueTable in Light Mode (Mobile)" width="350"/>
+  <img src="doc/screenshots/demo_light_mobile.png" alt="KeyValueTable in Light Mode (Mobile)" width="350"/>
 </p>
 
 ---
