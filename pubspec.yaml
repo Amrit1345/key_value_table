@@ -1,6 +1,6 @@
 name: key_value_table
 description: A lightweight Flutter table widget that perfectly aligns key-value pairs with intrinsic label widths, customizable separators, and widget values.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Amrit1345/key_value_table
 repository: https://github.com/Amrit1345/key_value_table
 issue_tracker: https://github.com/Amrit1345/key_value_table/issues

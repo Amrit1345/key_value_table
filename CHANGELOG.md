@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Fixed screenshot rendering in pub.dev README by using absolute GitHub raw image URLs.
+
 ## 0.0.2
 
 * Added live showcase screenshots for desktop and mobile (dark and light modes).
