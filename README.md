@@ -2,6 +2,7 @@
 
 [![Pub Version](https://img.shields.io/pub/v/key_value_table.svg)](https://pub.dev/packages/key_value_table)
 [![Pub Points](https://img.shields.io/pub/points/key_value_table)](https://pub.dev/packages/key_value_table/score)
+[![CI](https://github.com/Amrit1345/key_value_table/actions/workflows/ci.yml/badge.svg)](https://github.com/Amrit1345/key_value_table/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/Amrit1345/key_value_table.svg?style=flat&logo=github)](https://github.com/Amrit1345/key_value_table/stargazers)
 
