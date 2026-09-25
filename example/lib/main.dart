@@ -43,6 +43,7 @@ class _KeyValueTableExampleAppState extends State<KeyValueTableExampleApp> {
       themeMode: _themeMode,
       theme: ThemeData(
         useMaterial3: true,
+        splashFactory: InkRipple.splashFactory,
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFF4F46E5), // Indigo
           brightness: Brightness.light,
@@ -59,6 +60,7 @@ class _KeyValueTableExampleAppState extends State<KeyValueTableExampleApp> {
       ),
       darkTheme: ThemeData(
         useMaterial3: true,
+        splashFactory: InkRipple.splashFactory,
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFF6366F1),
           brightness: Brightness.dark,

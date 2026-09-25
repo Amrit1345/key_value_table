@@ -115,6 +115,7 @@ void main() {
 
     await tester.pumpWidget(
       MaterialApp(
+        theme: ThemeData(splashFactory: InkRipple.splashFactory),
         home: Scaffold(
           body: KeyValueTable(
             data: const {'Email': 'test@example.com'},
@@ -139,6 +140,7 @@ void main() {
 
     await tester.pumpWidget(
       MaterialApp(
+        theme: ThemeData(splashFactory: InkRipple.splashFactory),
         home: Scaffold(
           body: KeyValueTable(
             data: const {'Website': 'https://flutter.dev'},
@@ -263,6 +265,7 @@ void main() {
 
     await tester.pumpWidget(
       MaterialApp(
+        theme: ThemeData(splashFactory: InkRipple.splashFactory),
         home: Scaffold(
           body: KeyValueTable.items(
             items: items,
@@ -360,6 +363,7 @@ void main() {
 
     await tester.pumpWidget(
       MaterialApp(
+        theme: ThemeData(splashFactory: InkRipple.splashFactory),
         home: Scaffold(
           body: KeyValueTable(
             data: const {'API Key': 'secret_token_123'},
