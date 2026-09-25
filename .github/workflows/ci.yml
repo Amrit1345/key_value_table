@@ -3,8 +3,10 @@ name: CI
 on:
   push:
     branches: [ main ]
+    branches: [ main, dev ]
   pull_request:
     branches: [ main ]
+    branches: [ main, dev ]
 
 jobs:
   test:
@@ -20,15 +22,18 @@ jobs:
           cache: true
 
       - name: Install dependencies
+      - name: Install root dependencies
         run: flutter pub get
 
       - name: Verify formatting
         run: dart format --output=none --set-exit-if-changed .
 
       - name: Analyze project
+      - name: Analyze root project
         run: flutter analyze --fatal-infos
 
       - name: Run tests
+      - name: Run root tests
         run: flutter test
 
       - name: Install example dependencies
@@ -36,6 +41,10 @@ jobs:
         run: flutter pub get
 
       - name: Analyze example
+      - name: Analyze example project
         working-directory: example
         run: flutter analyze --fatal-infos
 
+      - name: Run example tests
+        working-directory: example
+        run: flutter test
